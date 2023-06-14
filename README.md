@@ -1,21 +1,5 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
-
-Description of the app ...
-
-## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+# Streamlit Analytics Dashboard
+This project is a dashboard that can be used to analyze various types of data.
+In this project there are 3 pages. 
+One is a Home page, another one is a sales dashboard.
+And the final one is a ML model builder.
