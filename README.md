@@ -1,21 +1,12 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Analytics Dashboard using python
 
-Description of the app ...
+This streamlit web applications contains 3 different sub applications
 
-## Demo App
+## Model Builder
+It builds an Random Forest ML model on the user uploaded data
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+## Home Page
+It shows demographics on commonly used data
 
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+## Sales Dashboard
+It presents the sales data viusally to the user and the user can interract with the data.
